@@ -12,5 +12,5 @@ The AgOpenGPS boards I use (All-In-One v4.5 and a Kaupoimod pcb v4) use a button
 <img width="595" height="396" alt="Circuit board" src="https://github.com/user-attachments/assets/2a7496ca-50f5-4e93-a149-bd77f4bfed5d" />
 
 So I could work non-destructively, I built a small wiring loom to sit between the FCI/SCIMA 24 pin plug that joins the armrest harnes to the CCU harness. On this, the HTS signal button is pin C6 and I just take a splice off this to the transistor switch.
-. Make sure you don't accidentally buy the wrong colour plugs though, as this meant I had to cut the incorrect keying off to fit!
+ Make sure you don't accidentally buy the wrong colour plugs though, as this meant I had to cut the incorrect keying off to fit! I've got some Type A (black) plugs and sockets coming and when they arrive I'll be making this into a proper wiring harness rather than holding everything together with a cable tie...
 <img width="1582" height="1659" alt="20261020_112808 (cropped)" src="https://github.com/user-attachments/assets/1fab8ff1-8b1c-4dc1-80dd-9e25ece97dd3" />
