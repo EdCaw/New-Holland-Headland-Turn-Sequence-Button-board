@@ -1,0 +1,4 @@
+﻿No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier	JLCPCB Part Class
+1	1	MMBT2222A 1P	Q1	SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR		MMBT2222A 1P	CJ(江苏长电/长晶)	C8512	LCSC	Basic Part
+2	1	10kΩ	R1	R0603	10kΩ	0603WAF1002T5E	UNI-ROYAL(厚声)	C25804	LCSC	Basic Part
+3	1	5.1kΩ	R2	R0402	5.1kΩ	0402WGF5101TCE	UNI-ROYAL(厚声)	C25905	LCSC	Basic Part
